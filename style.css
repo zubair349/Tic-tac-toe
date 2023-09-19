@@ -1,0 +1,31 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.gamecontainer{
+    margin: 20px;
+}
+.cellcontainer{
+    display: flex;
+    flex-wrap: wrap;
+    width: 192px;
+    margin: 40px auto 20px;
+}
+.box{
+    width: 60px;
+    height: 60px;
+    border: 2px solid black;
+    cursor: pointer;
+}
+.btn{
+    width: 30px;
+    height: 20px;
+    margin: 10px auto;
+}
+button{
+    background-color: blueviolet;
+}
+h1{
+    text-align: center;
+    background-color: blueviolet;
+}
